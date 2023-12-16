@@ -20,4 +20,6 @@
 
 #5.Most popular item to Customer A & C is ramen & customer B is curry,ramen,sushi
 
+![image](https://github.com/Rebecca1061/Data-Analyst-Project-5/assets/152878222/8ceaf7ee-ecdd-4824-8da9-5be6eaca165d)
+
 
